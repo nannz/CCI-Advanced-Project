@@ -23,7 +23,7 @@ Creative Computing Institute, University of the Arts London, London, United King
 
 ## Some Generated Examples
 <p align="center">
-  <img src="/images/generated-dunhuang-portraits.png" width="610" title="Generated Dunhuang Portraits">
+  <img src="/images/generated-dunhuang-portraits.png" width="600" title="Generated Dunhuang Portraits">
   <img src="/images/2-dunhuang-network000080-uncurated-with-truncation/seed0600.png" width="300" alt="Generated Dunhuang Mural">
 </p>
 
